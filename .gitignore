@@ -1,3 +1,8 @@
+# Dataset
+Syn.csv
+DrDoS_DNS.csv
+CSV-01-12.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
