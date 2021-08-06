@@ -1,4 +1,2 @@
-# NN-for-DDoS
-Code for University of York Dissertation Project on detecting DDoS attacks using CNNs and RNNs.
-
-Using CICDDoS2019 dataset.
+# CNN and RNN for DDoS Detection
+Project for a 2020 University of York Dissertation project focused on detecting DDoS attacks in known and unknown data using CNNs and RNNs. This used the CICDDoS2019 dataset.
